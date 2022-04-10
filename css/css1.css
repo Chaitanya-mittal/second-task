@@ -1,0 +1,78 @@
+body{
+    margin:0;
+    text-align:center;
+}
+div{
+    margin:20px;
+}
+.top{
+    /* line-height: 2;   */
+    background-color:#EAF6F6;
+}
+.cloud1{
+    margin-top:30px;
+    position:relative;
+    left:300px;
+}
+.name{
+    color:#66BFBF;
+    font-size:5.565rem;
+    font-family: 'Sacramento', cursive ,sans-serif;
+    width:40%;
+    margin:30px auto 30px auto;
+}
+h3{
+    margin-bottom: 30px;
+    color:rgba(58, 66, 112, 0.575);
+}
+.current{
+    font-weight:normal;
+    color:#66BFBF;
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.occupation{
+    text-decoration: underline;
+}
+.image{
+    position:relative;
+}
+.cloud2{
+    position:absolute;
+    top:60px;
+    left:350px;
+}
+.profile{
+    margin-top:50px;
+    width:20%;
+    border-radius: 50%;
+}
+.skill-row{
+    font-family: 'Courier New', Courier, serif;;
+    width:50%;
+    margin:100px auto 200px auto;
+    text-align:left;
+    line-height: 2;
+}
+.skill-1{
+    border-radius:50%;
+    width:25%;
+    float:left;
+    margin-right:40px;
+}
+.skill-2{
+    border-radius:50%;
+    width:25%;
+    float:right;
+}
+hr{
+    width:30px;
+    border-style:none;
+    border-top:dotted;
+    border-width:4px;
+
+}
+a{
+    margin-right:5px;
+    font-family: 'Courier New', Courier, monospace;
+}
